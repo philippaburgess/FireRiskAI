@@ -9,14 +9,15 @@ We are building **FireRiskAI**, an **AI-powered pre-fire risk assessment and com
 💡 **How Our Team Came Together:**  
 Our team consists of **ex-NGA & ex-NSA analysts, PhDs, MBAs, and advanced-degree professionals** in **geospatial science, AI/ML, cybersecurity, and emergency management**. We are united by a shared commitment to **advancing GEOINT AI solutions** and leveraging **fire risk intelligence as a case study for broader GEOINT innovation.**  
 
-### **🏛 USGIF: What It Is & Why It Matters**  
-The **United States Geospatial Intelligence Foundation (USGIF)** is the leading organization for advancing **geospatial intelligence (GEOINT) innovation, education, and collaboration** between government agencies, private defense contractors, and technology leaders.  
+---
 
-- **USGIF provides a critical link between NGA, DoD, DHS, and private industry**, fostering cutting-edge research and national security applications.  
-- **As members of the USGIF Machine Learning & Artificial Intelligence Working Group (MLAIWG), we are actively shaping the future of AI adoption in GEOINT.**  
-- **Our FireRiskAI project serves as a proof of concept for how AI-powered GEOINT solutions can enhance risk intelligence, automation, and decision support.**  
+## 🏛 USGIF, GEOINT, and National Security Alignment  
+The **United States Geospatial Intelligence Foundation (USGIF)** is the leading organization advancing **GEOINT innovation, education, and collaboration** between government agencies, private defense contractors, and technology leaders.  
 
-🔥 **We will be presenting a 45-minute session at the USGIF Symposium in May** to showcase **GEOINT’s role in AI-driven risk mitigation** and establish **FireRiskAI as a leading example of AI adoption in geospatial intelligence.**  
+- **USGIF bridges** the **National Geospatial-Intelligence Agency (NGA), Department of Defense (DoD), and private industry**, fostering cutting-edge research for national security applications.  
+- **As members of the USGIF Machine Learning & Artificial Intelligence Working Group (MLAIWG), we are shaping the future of AI adoption in GEOINT.**  
+- **FireRiskAI serves as a proof of concept for AI-driven risk intelligence, automation, and decision support, tailored for government and defense applications.**  
+- 🔥 **We will be presenting a 45-minute session at the USGIF Symposium in May** to showcase how **AI-driven GEOINT enhances fire risk mitigation and national security intelligence.**  
 
 ---
 
@@ -30,17 +31,19 @@ Wildfires are no longer just environmental disasters—they are national securit
 
 ---
 
-## 🌪 Integrating 15-Day Weather Forecasts for Fire Risk Intelligence  
-Accurate **wind forecasts** are essential for predicting wildfire spread.  
-- **The European Centre for Medium-Range Weather Forecasts (ECMWF)** recently introduced an AI system that improves **15-day weather predictions** by 20%, including **wind modeling and extreme weather forecasting**.  
-- **DeepMind's GenCast AI** outperforms traditional models in predicting high-wind events and tropical cyclones, **helping anticipate fire risk with greater precision**.  
+## 🌍 Our Team Across Three Fire & Climate Hackathons  
+FireRiskAI is part of a broader research and innovation effort across multiple major fire and climate hackathons:  
 
-### 🔹 Why Wind Forecasts Matter for FireRiskAI  
-✅ **Fire Spread:** Wind direction and speed determine how fast and where a fire moves.  
-✅ **Fire Intensity:** Strong winds increase oxygen supply, making fires burn hotter and faster.  
-✅ **Spotting:** Wind carries embers that ignite new fires **miles away from the main blaze**.  
+### **🔥 1. Fire Resilience — Emergency Response & Disaster Recovery Hackathon** (Kwaai, mimik, Personal.ai)  
+- FireRiskAI is our entry in the **Fire Resilience Hackathon**, focusing on **AI-powered pre-fire risk assessment** for **national security applications**.  
 
-By incorporating **15-day wind forecasts from ECMWF & AI-driven weather models**, **FireRiskAI enhances predictive accuracy, optimizes firefighting resource allocation, and improves early warnings**.  
+### **🌲 2. PROWESS Forest Fire Data Challenge** (UC San Diego, National Data Platform, Wildfire Science & Technology Commons)  
+- This challenge focuses on **3D fuel and fire modeling** using **LiDAR, plot data, and fire behavior simulations**.  
+- Our work integrates **FastFuels & QUIC-Fire simulations**, improving fire behavior modeling.  
+
+### **🏙 3. EY Data and Science Challenge** (Ernst & Young)  
+- This challenge focuses on using **AI and geospatial data to predict and mitigate urban heat islands and climate-related disasters**.  
+- We are leveraging **FireRiskAI’s AI modeling capabilities** for urban resilience applications.  
 
 ---
 
@@ -66,7 +69,7 @@ FireRiskAI is an **AI-driven risk intelligence tool that integrates geospatial d
 | **Edge AI & Mesh Computing** | **mimik.ai** (Decentralized Edge AI) |
 | **Conversational AI** | **Personal.ai** (AI-powered memory & recall) |
 | **Multi-Agent AI Framework** | **Kwaai** (AI coordination for disaster resilience) |
-| **Weather Forecasting** | **ECMWF 15-day Wind Forecasts, DeepMind’s GenCast AI** |
+| **Weather & Climate Data** | **ECMWF Forecasts, NOAA/NWS Models, QUIC-Fire Simulations** |
 
 ---
 
@@ -84,4 +87,3 @@ FireRiskAI integrates multiple **geospatial and climate datasets**:
 ✅ Faster risk predictions using **RAPIDS & Modulus**.  
 ✅ Enhancing **GEOINT AI decision support** with **Riva & TAO Toolkit**.  
 ✅ **Edge Deployment** for real-time intelligence using **Jetson & Metropolis**.  
-
