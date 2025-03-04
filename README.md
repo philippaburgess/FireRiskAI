@@ -50,7 +50,7 @@ FireRiskAI is an **AI-driven risk intelligence tool that integrates geospatial d
 | **Component**             | **Technology Used**  |
 |--------------------------|--------------------|
 | **AI & Machine Learning** | XGBoost, CNN, NVIDIA RAPIDS, TensorFlow, PyTorch |
-| **Geospatial Intelligence** | ArcGIS Online, Google Earth Engine, PostGIS, CesiumJS |
+| **Geospatial Intelligence** | ArcGIS Pro, Google Earth Engine, PostGIS, CesiumJS |
 | **Cloud & Compute** | Microsoft Fabric, Azure ML, AWS GovCloud |
 | **Edge AI & Mesh Computing** | **mimik.ai** (Decentralized Edge AI) |
 | **Conversational AI** | **Personal.ai** (AI-powered memory & recall) |
