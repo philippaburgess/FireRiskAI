@@ -31,23 +31,6 @@ The **United States Geospatial Intelligence Foundation (USGIF)** is the key orga
 
 ---
 
-## 🌍 FireRiskAI’s Role in Three Major AI & GEOINT Hackathons  
-FireRiskAI is part of a broader **AI innovation strategy across multiple hackathons**, each focusing on different aspects of **AI-driven risk intelligence and GEOINT automation.**  
-
-### **🔥 1. Fire Resilience — Emergency Response & Disaster Recovery Hackathon** (Kwaai, mimik, Personal.ai)  
-- **Primary focus:** **AI-driven pre-fire risk assessment & response intelligence.**  
-- **Key AI Components:** **Multi-Agent AI Framework (Kwaai), Edge AI (mimik.ai), Conversational AI (Personal.ai).**  
-
-### **🌲 2. PROWESS Forest Fire Data Challenge** (UC San Diego, National Data Platform, Wildfire Science & Technology Commons)  
-- **Primary focus:** **3D fire modeling & geospatial data fusion for fire intelligence.**  
-- **Key AI Components:** **FastFuels & QUIC-Fire AI simulations for predictive fire behavior modeling.**  
-
-### **🏙 3. EY Data and Science Challenge** (Ernst & Young)  
-- **Primary focus:** **AI for urban climate resilience & disaster risk intelligence.**  
-- **Key AI Components:** **LLM-powered risk intelligence, climate analytics, and geospatial AI for urban planning.**  
-
----
-
 ## 🚀 FireRiskAI: AI-Powered GEOINT for Pre-Fire Risk Mitigation  
 FireRiskAI is an **AI-driven risk intelligence tool that integrates geospatial data, machine learning, and AI decision support** to predict fire risk zones before ignition.  
 
@@ -89,3 +72,20 @@ FireRiskAI integrates multiple **geospatial and climate datasets**:
 ✅ Faster risk predictions using **RAPIDS & Modulus**.  
 ✅ Enhancing **GEOINT AI decision support** with **Riva & TAO Toolkit**.  
 ✅ **Edge Deployment** for real-time intelligence using **Jetson & Metropolis**.  
+
+---
+
+## 🌍 FireRiskAI’s Role in Three Major AI & GEOINT Hackathons  
+FireRiskAI is part of a broader **AI innovation strategy across multiple hackathons**, each focusing on different aspects of **AI-driven risk intelligence and GEOINT automation.**  
+
+### **🔥 1. Fire Resilience — Emergency Response & Disaster Recovery Hackathon** (Kwaai, mimik, Personal.ai)  
+- **Primary focus:** **AI-driven pre-fire risk assessment & response intelligence.**  
+- **Key AI Components:** **Multi-Agent AI Framework (Kwaai), Edge AI (mimik.ai), Conversational AI (Personal.ai).**  
+
+### **🌲 2. PROWESS Forest Fire Data Challenge** (UC San Diego, National Data Platform, Wildfire Science & Technology Commons)  
+- **Primary focus:** **3D fire modeling & geospatial data fusion for fire intelligence.**  
+- **Key AI Components:** **FastFuels & QUIC-Fire AI simulations for predictive fire behavior modeling.**  
+
+### **🏙 3. EY Data and Science Challenge** (Ernst & Young)  
+- **Primary focus:** **AI for urban climate resilience & disaster risk intelligence.**  
+- **Key AI Components:** **LLM-powered risk intelligence, climate analytics, and geospatial AI for urban planning.**  
