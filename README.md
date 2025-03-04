@@ -47,4 +47,22 @@ FireRiskAI is an **AI-driven risk intelligence tool that integrates geospatial d
 ---
 
 ## 🏗 Tech Stack  
-| **Component**             | **Technology Used** 
+| **Component**             | **Technology Used**  |
+|--------------------------|--------------------|
+| **AI & Machine Learning** | XGBoost, CNN, NVIDIA RAPIDS, TensorFlow, PyTorch |
+| **Geospatial Intelligence** | ArcGIS Online, Google Earth Engine, PostGIS, CesiumJS |
+| **Cloud & Compute** | Microsoft Fabric, Azure ML, AWS GovCloud |
+| **Edge AI & Mesh Computing** | **mimik.ai** (Decentralized Edge AI) |
+| **Conversational AI** | **Personal.ai** (AI-powered memory & recall) |
+| **Multi-Agent AI Framework** | **Kwaai** (AI coordination for disaster resilience) |
+
+---
+
+## 📊 Data Sources  
+FireRiskAI integrates multiple **geospatial and climate datasets**:  
+- **🔥 Burn Severity Data:** Monitoring Trends in Burn Severity (MTBS)  
+- **🌱 Vegetation Health:** NDVI, NDMI (Normalized Difference Moisture Index)  
+- **🌍 Climate & Weather:** NOAA Climate Data, Wind & Drought Models  
+- **🌲 Fuel Load & Topography:** USGS DEM, Sentinel-2 Data  
+
+---
